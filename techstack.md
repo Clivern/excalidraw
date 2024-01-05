@@ -70,7 +70,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Clivern/excalidraw](https://github.com/Clivern/excalidraw)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|12/21/23 <br/>Report generated|
+|72<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -347,9 +347,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (40)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (42)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (40)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (42)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -377,6 +377,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.3.1|12/18/22|David Luzar |MIT|N/A|
 |[file-loader](https://www.npmjs.com/file-loader)|v6.2.0|07/20/22|dependabot[bot] |MIT|N/A|
 |[http-server](https://www.npmjs.com/http-server)|v14.1.1|12/18/22|David Luzar |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|10/29/21|Lipis |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.7|07/20/22|dependabot[bot] |MIT|N/A|
 |[lodash.throttle](https://www.npmjs.com/lodash.throttle)|v4.1.1|07/20/22|dependabot[bot] |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.6.1|07/26/22|DanielJGeiger |MIT|N/A|
 |[nanoid](https://www.npmjs.com/nanoid)|v3.3.4|04/26/22|dependabot[bot] |MIT|N/A|
